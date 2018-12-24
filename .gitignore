@@ -20,7 +20,8 @@ bin/
 # IntelliJ
 *.iml
 .idea/*
-/out
 
 # Patches
 *.patch
+
+**/out/
